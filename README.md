@@ -1,6 +1,6 @@
 ##### 1.git命令
 
-- ###### git添加远程仓库命令
+- ###### git添加远程仓库命令 git remote add origin git@github.com:bainan224/库名.git
 
 - ###### git创建本地分支命令
 
