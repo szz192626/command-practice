@@ -6,6 +6,8 @@
 
 - git添加远程仓库：git add remote"地址"
 
+- git添加remote仓库命令是：git remote add origin git@github.com:szz192626/command-practice.git
+
 ##### 2.maven命令
 
 - ###### maven编辑命令
