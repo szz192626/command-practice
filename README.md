@@ -2,7 +2,7 @@
 
 - ###### git添加远程仓库命令 git remote add origin git@github.com:bainan224/库名.git
 
-- ###### git创建本地分支命令
+- ###### git创建本地分支命令 git brach 
 
 ##### 2.maven命令
 
