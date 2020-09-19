@@ -4,6 +4,8 @@
 
 - ###### git创建本地分支命令 git brach 
 
+- git添加远程仓库：git add remote"地址"
+
 ##### 2.maven命令
 
 - ###### maven编辑命令
